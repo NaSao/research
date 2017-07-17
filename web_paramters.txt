@@ -1,0 +1,12 @@
+name:WS1
+using_price_charge:30
+bandwidth:1000
+writing_cost_per_unit:2
+reading_cost_per_unit:2
+transfer_cost_per_unit:3
+processing_cost_per_unit:1
+disk_write_speed:2000
+processing_rate:70
+address:Augsburger Str. 697,70329 Stuttgart
+latitude:48.707264
+longitude:9.0840984
